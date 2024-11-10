@@ -1,13 +1,13 @@
 # HR-Data-Analysis
 
-Data Used
-Data - HR Data with over 22000 rows from the year 2000 to 2020.
+# Data Used
+# Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-Data Cleaning & Analysis - MySQL Workbench
+# Data Cleaning & Analysis - MySQL Workbench
 
-Data Visualization - PowerBI
+#  Data Visualization - PowerBI
 
-Questions
+# Questions
 What is the gender breakdown of employees in the company?
 What is the race/ethnicity breakdown of employees in the company?
 What is the age distribution of employees in the company?
@@ -19,7 +19,9 @@ Which department has the highest turnover rate?
 What is the distribution of employees across locations by state?
 How has the company's employee count changed over time based on hire and term dates?
 What is the tenure distribution for each department?
-Summary of Findings
+
+
+# Summary of Findings
 There are more male employees
 White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 The youngest employee is 20 years old and the oldest is 57 years old
